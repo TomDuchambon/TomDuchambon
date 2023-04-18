@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @TomDuchambon
+- 🟥 🟨 🟦 www.tomduchambon.com
 - 👀 I’m interested in Music, art in general and programming
 - 🌱 I’m currently a TA @ Le Wagon
 - 💞️ I’m looking to share ideas and my own path in the programming world
