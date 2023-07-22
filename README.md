@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center" style="background-color: #e8d8bd;">Hey, I'm Tom 👋</h1>
+<h1 align="center" style="background-color: #e8d8bd;">Hey,  I'm Tom 👋</h1>
 
 <!-- INTRODUCTION -->
 <p align="center" style="background-color: #e8d8bd;">Passionate about music, art, and programming</p>
